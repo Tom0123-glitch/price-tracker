@@ -1,8 +1,6 @@
 flask
+gunicorn
 requests
 beautifulsoup4
-sqlite3
 apscheduler
-gunicorn
-smtplib
-pip freeze > requirements.txt
+python-dotenv
